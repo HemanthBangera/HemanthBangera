@@ -1,16 +1,16 @@
-## Hi there 👋
+### Currently exploring low level systems, artificial intelligence and web development
+### I'm Building projects using
 
-<!--
-**HemanthBangera/HemanthBangera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages :
+C, C++, Go, Java, TypeScript, JavaScript, Python
 
-Here are some ideas to get you started:
+FrameWorks / Libraries :
+NextJs, ReactJs, Tailwind, Bootstrap, Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Database & ORM :
+PostgreSQL, MongoDB, Prisma, Mongoose
+
+**Email:** [hemanthbangera843@gmail.com](mailto:hemanthbangera843@gmail.com)
+
+active on **X** [NischalShetty02](https://x.com/hemanth_corp)
+
