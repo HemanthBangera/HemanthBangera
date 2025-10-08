@@ -1,4 +1,3 @@
-![My Banner](./XBanner.jpeg)
 
 ### I'm Building projects using
 
