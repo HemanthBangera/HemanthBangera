@@ -19,4 +19,4 @@ LangGraph, SmolAgent, LlamaIndex
 
 active on **X** [hemanth_corp](https://x.com/hemanth_corp)
 
-![My Banner](./XBanner.png)
+![My Banner](./XBanner.jpeg)
