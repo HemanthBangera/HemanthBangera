@@ -13,7 +13,7 @@ Backend Tools:
 Node.js, Zod, JWT, Postman, Docker
   
 AI / Agentic Frameworks:
-LangGraph, SmoAgent, LlamaIndex  
+LangGraph, SmolAgent, LlamaIndex  
 
 **Email:** [hemanthbangera843@gmail.com](mailto:hemanthbangera843@gmail.com)
 
