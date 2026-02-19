@@ -2,7 +2,7 @@
 ### I'm Building projects using
 
 Languages :
-C, C++, Go, Java, TypeScript, JavaScript, Python
+C, C++, Go, TypeScript, JavaScript, Python
 
 FrameWorks / Libraries :
 NextJs, ReactJs, Tailwind, Express
